@@ -7,3 +7,5 @@
 Evaluación práctica 02 del ciclo 4.
 ## Control de cambios
 Pruebas de modificación entre el Working Directory y el Staging Area.
+## Rama feature-evaluacion
+Trabajo desarrollado en rama independiente para la evaluación T2.
